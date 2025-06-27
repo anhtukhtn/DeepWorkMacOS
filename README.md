@@ -9,12 +9,10 @@ A minimalist macOS timer application built with SwiftUI for focused work session
 
 ## Features
 
-- Timer with start/pause/resume/restart controls
-- Session history tracking with statistics
-- Audio feedback with volume control
-- Customizable themes and session duration
-- Progress visualization
-- Fixed 360x360 window size
+- The timer counts up
+- The clock sounds
+- Title for tracking
+- Session duration without break time
 
 ## Architecture
 
